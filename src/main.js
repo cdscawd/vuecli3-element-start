@@ -9,7 +9,7 @@ import {
   Button,
 } from 'element-ui'
 Vue.use(Button)
-Vue.prototype.$ELEMENT = { size: 'small' }
+Vue.prototype.$ELEMENT = { size: 'mini' }
 
 Vue.config.productionTip = false
 axios
